@@ -10,3 +10,9 @@
 
 #### Step 2: Install the UserScript by opening this link
 [download](https://github.com/srdwly/llpixel/raw/master/minimap.user.js)
+
+In case you don't get an install dialog, or find the script overwriting/being overwritten by other minimaps in Greasemonkey (since they got the same file name), do the following:
+- Find any other script that's not a PixelCanvas minimap, and install it.
+- Open the minimap.user.js file that is the minimap script you'd like to install, and copy its entire content.
+- Click the Greasemonkey icon, and select the random script from before. Choose "Edit" and paste the minimap script content over whatever was there before. Don't forget to save (Ctrl+S)!
+- The script should now show up with the intended name, and work properly. This way you can install multiple minimaps, you just need to make sure that only one is active at a time, as they'll conflict with each other.
