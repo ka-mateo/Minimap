@@ -10,14 +10,3 @@
 
 #### Step 2: Install the UserScript by opening this link
 [download](https://github.com/srdwly/llpixel/raw/master/minimap.user.js)
-
-### Update
-[Check for updates](https://github.com/srdwly/llpixel/raw/master/minimap.user.js)
-
-Linke tıkladıktan sonra açılan açılan pencerede guncelleme (varsa) update edilir.
-
-## Şablon listesi
-
-> Şablonun bulunduğu konuma gitmek için resme tıklayın.
-
-
