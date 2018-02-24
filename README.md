@@ -1,4 +1,4 @@
-# LLpixel
+# Abyss minimap
 
 ### Setup
 #### Step 1: Get Greasemonkey/Tampermonkey 
