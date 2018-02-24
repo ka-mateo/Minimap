@@ -9,7 +9,7 @@
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
 #### Step 2: Install the UserScript by opening this link
-[download](https://github.com/srdwly/llpixel/raw/master/minimap.user.js)
+[download](https://github.com/LowQuality/Abyss/raw/master/minimap.user.js)
 
 In case you don't get an install dialog, or find the script overwriting/being overwritten by other minimaps in Greasemonkey (since they got the same file name), do the following:
 - Find any other script that's not a PixelCanvas minimap, and install it.
