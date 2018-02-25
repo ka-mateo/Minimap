@@ -27,6 +27,15 @@
     "width": 57,
     "height": 110
   },
+  // Spades
+  "Chrono Trigger": {
+    "name": "ChronoTrigger.png",
+    "x": 2873,
+    "y":  846,
+    "width": 153,
+    "height": 40
+  },
+  // personal stuff
   "Quazar": {
     "name": "Quazar.png",
     "x": -91,
