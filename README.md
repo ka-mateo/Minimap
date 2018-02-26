@@ -1,5 +1,7 @@
 # Abyss minimap
 
+A minimap script for the website PixelCanvas.io hosting templates of the faction named Abyss, alongside some others. Note that unlike the other colors in the images, the light gray is not identical to the one used by PixelCanvas, but a bit darker instead to ease distinction from white.
+
 ### Setup
 #### Step 1: Get Greasemonkey/Tampermonkey 
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/firefox.png) [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
