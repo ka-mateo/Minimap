@@ -27,6 +27,13 @@
     "width": 57,
     "height": 110
   },
+  "Crab Island": {
+    "name": "CrabIsland.png",
+    "x": 594,
+    "y":  -23,
+    "width": 256,
+    "height": 144
+  },
   "Chrono Trigger": {
     "name": "ChronoTrigger.png",
     "x": 2873,
