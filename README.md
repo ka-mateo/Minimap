@@ -10,7 +10,7 @@ A minimap script for the website PixelCanvas.io. This one aims to be available t
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/safari.png) [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz)
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
-#### Step 2: Install the UserScript by opening this link
+#### Step 2: Install the userscript by opening this link
 [download](https://github.com/LowQuality/Minimap/raw/master/minimap.user.js)
 
 In case you don't get an install dialog, or find the script overwriting/being overwritten by other minimaps in Greasemonkey (since they got the same file name), do the following:
