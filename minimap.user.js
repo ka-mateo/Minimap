@@ -1,23 +1,23 @@
 // ==UserScript==
-// @name         Abyss Minimap
-// @namespace    Abyss
+// @name         PixelCanvas Minimap
+// @namespace    PixelCanvas Minimap
 // @version      3.2
-// @description  PixelCanvasio minimap for Abyss templates
+// @description  PixelCanvas.io minimap for everyone
 // @author       Some Anon
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/LowQuality/Abyss
-// @updateURL    https://raw.githubusercontent.com/LowQuality/Abyss/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/LowQuality/Abyss/master/minimap.user.js
+// @homepage     https://github.com/LowQuality/Minimap
+// @updateURL    https://raw.githubusercontent.com/LowQuality/Minimap/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/LowQuality/Minimap/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
 //ref:https://stackoverflow.com/questions/4604663/download-single-files-from-github
 //github raw file url  template
 //https://raw.githubusercontent.com/user/repository/branch/filename
-//https://raw.githubusercontent.com/LowQuality/Abyss/master/README.md
+//https://raw.githubusercontent.com/LowQuality/Minimap/master/README.md
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Abyss/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Minimap/master';
 
 cssStyle = `
 #minimapbg {
