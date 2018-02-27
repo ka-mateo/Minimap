@@ -1,4 +1,4 @@
-# APixelCanvas minimap
+# PixelCanvas minimap
 
 A minimap script for the website PixelCanvas.io. This one aims to be available to everyone, instead of focussig on one particular faction. Note though, no templates that are against the rules of PixelCanvas.io will be added, so don't request pornographic imagery, swastikas, or similar stuff that's not appropriate to be put onto a public website. Requesting and approval of templates will be handled by the PixelCanvas Council server and its staff members for now; if you don't know about that one, ask a representative of your faction who might be there, or contact the current server owner, Low Quality#0091 (ID: 328239338271801345).
 
