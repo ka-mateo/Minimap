@@ -1,38 +1,24 @@
 {
-  "Chrono Trigger": {
-    "name": "ChronoTrigger.png",
-    "x": 2873,
-    "y":  846,
-    "width": 153,
-    "height": 40
-  },
-  "Crab Island": {
-    "name": "CrabIsland.png",
-    "x": 593,
-    "y":  -23,
-    "width": 256,
-    "height": 144
-  },
-  "Ika-chan": {
-    "name": "Ika-chan.png",
-    "x": 5732,
-    "y": 2436,
-    "width": 105,
-    "height": 129
-  },
-  "Quazar": {
-    "name": "Quazar.png",
-    "x": -91,
-    "y":  5529,
-    "width": 438,
-    "height": 153
-  },
-  "Trumpepe": {
-    "name": "Trumpepe.png",
-    "x": -2834,
-    "y":  2841,
-    "width": 171,
-    "height": 165
+  "Iron Corpse": {
+    "name": "IronCorpse.png",
+    "x": -1899,
+    "y":  8637,
+    "width": 102,
+    "height": 504
+\\ },
+\\ "Crab Island": {
+\\  "name": "CrabIsland.png",
+\\    "x": 593,
+\\    "y":  -23,
+\\    "width": 256,
+\\    "height": 144
+\\  },
+\\  "Ika-chan": {
+\\    "name": "Ika-chan.png",
+\\    "x": 5732,
+\\    "y": 2436,
+\\    "width": 105,
+\\    "height": 129
 }
   
 }
