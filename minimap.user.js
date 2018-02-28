@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         PixelCanvas Minimap
-// @namespace    PixelCanvas Minimap
+// @name         RedPixel Minimap
+// @namespace    RedPixel Minimap
 // @version      3.2
-// @description  PixelCanvas.io minimap for everyone
+// @description  PixelCanvas.io minimap for RedPixel templates
 // @author       Some Anon
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/LowQuality/Minimap
-// @updateURL    https://raw.githubusercontent.com/LowQuality/Minimap/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/LowQuality/Minimap/master/minimap.user.js
+// @homepage     https://github.com/ka-mateo/RedPixel-Minimap
+// @updateURL    https://raw.githubusercontent.com/ka-mateo/RedPixel-Minimap/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/ka-mateo/RedPixel-Minimap/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
