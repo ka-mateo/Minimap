@@ -15,9 +15,9 @@
 //ref:https://stackoverflow.com/questions/4604663/download-single-files-from-github
 //github raw file url  template
 //https://raw.githubusercontent.com/user/repository/branch/filename
-//https://raw.githubusercontent.com/LowQuality/Minimap/master/README.md
+//https://raw.githubusercontent.com/ka-mateo/RedPixel-Minimap/master/README.md
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/LowQuality/Minimap/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/ka-mateo/RedPixel-Minimap/master';
 
 cssStyle = `
 #minimapbg {
