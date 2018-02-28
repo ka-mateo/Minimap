@@ -1,4 +1,4 @@
-# RedPixel minimap
+# RedPixel Minimap
 
 A minimap script for the website PixelCanvas.io hosting templates of the faction named RedPixel. Approval of templates for the minimap will be handled by the faction's Commissars of Art and Commissars of Science. Please contact a Premier in the [RedPixel Discord Server](https://discord.me/redpixel) if you are a Comrade who wishes to contribute a template.
 
