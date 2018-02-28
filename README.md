@@ -11,7 +11,7 @@ A minimap script for the website PixelCanvas.io hosting templates of the faction
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
 #### Step 2: Install the userscript by opening this link
-[download](https://github.com/ka-mateo/RedPixel-Minimap/blob/master/minimap.user.js)
+[download](https://raw.githubusercontent.com/ka-mateo/RedPixel-Minimap/master/minimap.user.js)
 
 In case you don't get an install dialog, or find the script overwriting/being overwritten by other minimaps in Greasemonkey (since they got the same file name), do the following:
 - Find any other script that's not a PixelCanvas minimap, and install it (try following the "Get User Scripts" entry of the Greasemonkey menu if you don't know where to get one).
