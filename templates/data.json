@@ -2,14 +2,14 @@
   "Iron Corpse": {
     "name": "IronCorpse.png",
     "x": -1899,
-    "y":  637,
+    "y": 637,
     "width": 841,
     "height": 600
   },
   "Black Base": {
     "name": "BlackBase.png",
     "x": 4784,
-    "y":  3875,
+    "y": 3875,
     "width": 315,
     "height": 315
 }
