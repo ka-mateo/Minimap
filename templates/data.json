@@ -1,4 +1,11 @@
 {
+  "Center": {
+    "name": "Center.png",
+    "x": -949,
+    "y": -943,
+    "width": 1680,
+    "height": 929
+  },
   "Iron Corpse": {
     "name": "IronCorpse.png",
     "x": -1898,
