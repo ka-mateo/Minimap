@@ -1,6 +1,6 @@
 # RedPixel Minimap
 
-A minimap script for the website PixelCanvas.io hosting templates of the faction named RedPixel. Approval of templates for the minimap will be handled by the faction's Commissars of Art and Commissars of Science. Please contact a Premier in the [RedPixel Discord Server](https://discord.me/redpixel) if you are a Comrade who wishes to contribute a template.
+A minimap script for the website PixelCanvas.io hosting templates of the faction named RedPixel. Approval of templates for the minimap will be handled by the faction's Deputies, Commissars of Art, and Commissars of Science. Please contact ka mateo#1754 (ID: 333082447480750082) or any other a Premier in the [RedPixel Discord Server](https://discord.me/redpixel) if you are a Comrade who wishes to contribute a template to the minimap.
 
 ### Setup
 #### Step 1: Get Greasemonkey/Tampermonkey 
